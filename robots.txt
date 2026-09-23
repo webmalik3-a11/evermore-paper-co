@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webmalik3-a11.github.io/evermore-paper-co/sitemap.xml
